@@ -1,0 +1,6 @@
+framework module OneSignalSmart {
+  umbrella header "OneSignalSmart.h"
+
+  export *
+  module * { export * }
+}
